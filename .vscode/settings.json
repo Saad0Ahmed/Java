@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "p8/src",
+        "p7/src",
+        "p6/src",
+        "p5/src",
+        "p4/src",
+        "p3/src",
+        "p2/src",
+        "p10/src",
+        "p1/src",
+        "p9/src"
+    ]
+}
